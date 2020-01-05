@@ -3,4 +3,6 @@
 
 double siuns(double value);
 
+int randomize(int value);
+
 #endif
