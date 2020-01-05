@@ -4,7 +4,7 @@
 
 int main()
 {
-    int a, b;
+    int a, b,c;
     printf("Test mnozenia\n");
 
     printf("Podaj pierwsza liczbe\n");
@@ -13,7 +13,10 @@ int main()
     printf("Podaj druga liczbe\n");
     scanf("%d", &b);
 
-    printf("Wynik mnozenia wynosi %d\n",mnozenie(a,b));
+    printf("Podaj trzecia liczbe\n");
+    scanf("%d", &c);
+
+    printf("Wynik mnozenia wynosi %d\n",mnozenie(a,b,c));
 
     return 0;
 }

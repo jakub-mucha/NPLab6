@@ -1,5 +1,5 @@
 #ifndef MNOZENIE_H_INCLUDED
 #define MNOZENIE_H_INCLUDED
-int mnozenie (int a,int b);
+int mnozenie (int a,int b, int c);
 
 #endif // MNOZENIE_H_INCLUDED
