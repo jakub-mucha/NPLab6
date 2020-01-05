@@ -1,13 +1,1 @@
-# Program C z funkcjami
-
-Stworzony na projekt
-
-## Twórcy
-
-* Karol Pyszka
-* Jakub Mucha
-* Mateusz Nalazek
-* Michał Piotrowicz
-
-
-
+Dodanie funkcji dla wektorow jednowymiarowych i dwuwymiarowych
