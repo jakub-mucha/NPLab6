@@ -1,0 +1,1 @@
+int dodajWektory(int x, int y);
