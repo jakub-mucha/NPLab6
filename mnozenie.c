@@ -1,5 +1,5 @@
-int mnozenie (int a,int b, int c){
-int wynik;
+float mnozenie (float a,float b, float c){
+float wynik;
 wynik=a*b*c;
 return wynik;
 }
