@@ -1,4 +1,6 @@
 #include <stdio.h>
+int mnozenie (int a, int b);
+
 
 int main()
 {
@@ -11,7 +13,13 @@ int main()
     printf("Podaj druga liczbe\n");
     scanf("%d", &b);
 
-    printf("Wynik mnozenia wynosi %d\n",a*b);
+    printf("Wynik mnozenia wynosi %d\n",mnozenie(a,b));
 
     return 0;
+}
+
+int mnozenie (int a,int b){
+int wynik;
+wynik=a*b;
+return wynik;
 }
