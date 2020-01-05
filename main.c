@@ -16,7 +16,7 @@ int main()
     printf("Podaj trzecia liczbe\n");
     scanf("%d", &c);
 
-    printf("Wynik mnozenia wynosi %d\n",mnozenie(a,b,c));
+    printf("Wynik mnozenia wynosi %f\n",(float)mnozenie(a,b,c));
 
     return 0;
 }
