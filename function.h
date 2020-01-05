@@ -5,4 +5,6 @@ double siuns(double value);
 
 int randomize(int value);
 
+int multiex(int value, int value2)
+
 #endif

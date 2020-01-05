@@ -17,3 +17,9 @@ int randomize(int value)
     value = value + rand()%100;
     return value;
 }
+
+int multiex(int value, int value2)
+{
+	value = value2*12;
+	return value;
+}
