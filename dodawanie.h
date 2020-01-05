@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-int dodaj(int liczba1, int liczba2)
-{
-	return 1;
-}
+int dodajInt(int liczba1, int liczba2);
+
+float dodajFloat(float liczba1, float liczba2);
