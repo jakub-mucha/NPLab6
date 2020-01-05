@@ -1,5 +1,5 @@
 #include <stdio.h>
-int mnozenie (int a, int b);
+#include "mnozenie.h"
 
 
 int main()
@@ -18,8 +18,3 @@ int main()
     return 0;
 }
 
-int mnozenie (int a,int b){
-int wynik;
-wynik=a*b;
-return wynik;
-}
