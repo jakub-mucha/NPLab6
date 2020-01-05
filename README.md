@@ -4,10 +4,10 @@ Stworzony na projekt
 
 ## Twórcy
 
-*Karol Pyszka
-*Jakub Mucha
-*Mateusz Nalazek
-*Michał Piotrowicz
+* Karol Pyszka
+* Jakub Mucha
+* Mateusz Nalazek
+* Michał Piotrowicz
 
 
 
