@@ -1,7 +1,7 @@
 #include <iostream>
 #include "test.h"
 
-int dodajWektory(int x, int y)
+int main()
 {
-	return x+y;
+	dodajWektory2Wymiarowe(3,5,6,2);
 }
