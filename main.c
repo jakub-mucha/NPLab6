@@ -4,19 +4,19 @@
 
 int main()
 {
-    float a, b,c;
+    double a, b,c;
     printf("Test mnozenia\n");
 
     printf("Podaj pierwsza liczbe\n");
-    scanf("%f", &a);
+    scanf("%lf", &a);
 
     printf("Podaj druga liczbe\n");
-    scanf("%f", &b);
+    scanf("%lf", &b);
 
     printf("Podaj trzecia liczbe\n");
-    scanf("%f", &c);
+    scanf("%lf", &c);
 
-    printf("Wynik mnozenia wynosi %f\n",mnozenie(a,b,c));
+    printf("Wynik mnozenia wynosi %lf\n",mnozenie(a,b,c));
 
     return 0;
 }
