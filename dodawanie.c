@@ -13,3 +13,10 @@ float dodajFloat(float liczba1, float liczba2)
 	wynik = liczba1 + liczba2;
 	return wynik;
 }
+
+double dodajDouble(double liczba1, double liczba2)
+{
+	double wynik;
+	wynik = liczba1 + liczba2;
+	return wynik;
+}
