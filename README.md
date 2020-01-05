@@ -1,0 +1,1 @@
+Dodanie funkcji dla wektorow jednowymiarowych i dwuwymiarowych
